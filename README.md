@@ -7,7 +7,7 @@ Which means, nothing fancy.
 
 #### setup
 
-Kindly `make` and `rm -rf vimrConf` will suffice. (If you don't have make, just run the script `setup.sh`.)
+Kindly `make` and `rm -rf vimrConf` would suffice. (If you don't have make, just run the script `setup.sh`.)
 
 If `lg2 command not found`, `alias lg2 git` then git will collect the plugins for you. No plugin manager is used.
 
